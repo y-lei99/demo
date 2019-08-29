@@ -22,7 +22,7 @@ dependencies:
   - ipywidgets=7.4.2
   - graphviz=2.38
   - jupyterlab=0.35.4
-  - libgdal=2.4.0
+  - libgdal
   - boto3=1.9.91
   - hvplot=0.4.0
   - geoviews-core=1.6.2
