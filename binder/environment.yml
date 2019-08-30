@@ -1,4 +1,4 @@
-name: esip-tech-dive
+name: demo
 channels:
   - conda-forge
 dependencies:
